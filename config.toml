@@ -1,7 +1,7 @@
-# Mitsu-Yama# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/example
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
 baseURL = 'https://jamcha-aa-mitsuyama.netlify.com/'
-title = 'YouTubeで MMR を観た'
+title = 'YouTubeで『三橋貴明 x 山本太郎』を観た'
 theme = 'hugo-book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 # themesDir = '../..'
