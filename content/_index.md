@@ -5,7 +5,7 @@ type: docs
 
 <div align="center"><img src="./hero.png" alt="top-image"></div>
 <h1 align="center">YouTubeで MMR を観た</h1>
-<h3 align="center"><font color="gray">Milk Money Reportage.</font></h3>
+<h3 align="center"><font color="gray">Milk Money Reportage</font></h3>
 
 <p align="center">
   <a href="https://jamcha-aa-mitsuyama.netlify.com/docs/00/"><b>読む</b></a> |
