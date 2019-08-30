@@ -24,5 +24,6 @@ type: docs
 Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).  
 
 [![written with Annin](https://rawcdn.githack.com/jamcha-aa/Annin/58aae5ac65e3d2ebb682957b957d2336a80cabf2/assets/Annin.svg)](https://jamcha-aa.github.io/Annin)
+![Netlify Status](https://api.netlify.com/api/v1/badges/62b373ed-994d-4f47-ba63-f27f2c8462d5/deploy-status)
 
 Powered by [Hugo](https://gohugo.io/) . Theme [Book](https://themes.gohugo.io/hugo-book/) by [Alex Shpak](https://github.com/alex-shpak/) and [kitab](https://themes.gohugo.io/kitab/) by [Darshan Baral](https://www.darshanbaral.com/). (modified by jamcha)
