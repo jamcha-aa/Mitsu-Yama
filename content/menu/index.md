@@ -9,3 +9,4 @@ headless: true
 - [03 - 秘伝のエキス]({{< relref "/docs/03.md" >}})
 - [04 - 当座預金ってなに]({{< relref "/docs/04.md" >}})
 - [05 - 金は無から生まれる]({{< relref "/docs/05.md" >}})
+- [06 - 自家発電の仕組み]({{< relref "/docs/06.md" >}})
