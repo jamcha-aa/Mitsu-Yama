@@ -10,3 +10,4 @@ headless: true
 - [04 - 当座預金ってなに]({{< relref "/docs/04.md" >}})
 - [05 - 金は無から生まれる]({{< relref "/docs/05.md" >}})
 - [06 - 自家発電の仕組み]({{< relref "/docs/06.md" >}})
+- [07 - リーマンショックはどこ？]({{< relref "/docs/07.md" >}})
