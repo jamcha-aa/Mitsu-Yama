@@ -12,3 +12,4 @@ headless: true
 - [06 - 自家発電の仕組み]({{< relref "/docs/06.md" >}})
 - [07 - リーマンショックはどこ？]({{< relref "/docs/07.md" >}})
 - [08 - 銀行つぶしの時代]({{< relref "/docs/08.md" >}})
+- [09 - 100 兆円玉]({{< relref "/docs/09.md" >}})
