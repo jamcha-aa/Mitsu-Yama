@@ -11,3 +11,4 @@ headless: true
 - [05 - 金は無から生まれる]({{< relref "/docs/05.md" >}})
 - [06 - 自家発電の仕組み]({{< relref "/docs/06.md" >}})
 - [07 - リーマンショックはどこ？]({{< relref "/docs/07.md" >}})
+- [08 - 銀行つぶしの時代]({{< relref "/docs/08.md" >}})
