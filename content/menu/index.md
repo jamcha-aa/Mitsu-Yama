@@ -15,3 +15,4 @@ headless: true
 - [09 - 100 兆円玉]({{< relref "/docs/09.md" >}})
 - [10 - 煤けた太陽]({{< relref "/docs/10.md" >}})
 - [11 - 土建屋叩き]({{< relref "/docs/11.md" >}})
+- [12 - 消費増税のためですよ]({{< relref "/docs/12.md" >}})
