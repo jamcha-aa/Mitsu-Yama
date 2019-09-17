@@ -18,5 +18,5 @@ headless: true
 - [12 - 消費増税のためですよ]({{< relref "/docs/12.md" >}})
 - [13 - 経営は人です]({{< relref "/docs/13.md" >}})
 - [14 - れいわの考える国のかたち？]({{< relref "/docs/14.md" >}})
-- [おまけ]({{< relref "/docs/15.md" >}})
-- [15 - 名は体を表す]({{< relref "/docs/16.md" >}})
+- [15 - Milk Money Theory]({{< relref "/docs/15.md" >}})
+- [16 - 名は体を表す]({{< relref "/docs/16.md" >}})
