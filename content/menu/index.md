@@ -20,3 +20,4 @@ headless: true
 - [14 - れいわの考える国のかたち？]({{< relref "/docs/14.md" >}})
 - [15 - Milk Money Theory]({{< relref "/docs/15.md" >}})
 - [16 - 名は体を表す]({{< relref "/docs/16.md" >}})
+- [17 - 商品の対価]({{< relref "/docs/17.md" >}})
