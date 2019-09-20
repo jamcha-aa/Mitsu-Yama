@@ -21,3 +21,4 @@ headless: true
 - [15 - Milk Money Theory]({{< relref "/docs/15.md" >}})
 - [16 - 名は体を表す]({{< relref "/docs/16.md" >}})
 - [17 - 商品の対価]({{< relref "/docs/17.md" >}})
+- [18 - うらみ]({{< relref "/docs/18.md" >}})
