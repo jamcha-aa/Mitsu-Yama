@@ -22,4 +22,4 @@ headless: true
 - [16 - 名は体を表す]({{< relref "/docs/16.md" >}})
 - [17 - 商品の対価]({{< relref "/docs/17.md" >}})
 - [18 - うらみ]({{< relref "/docs/18.md" >}})
-- [19 - 残った 372 兆円の謎]({{< relref "/docs/19.md" >}})
+- [19 - 残った 568 兆円の謎]({{< relref "/docs/19.md" >}})
