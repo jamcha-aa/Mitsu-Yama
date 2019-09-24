@@ -23,3 +23,4 @@ headless: true
 - [17 - 商品の対価]({{< relref "/docs/17.md" >}})
 - [18 - うらみ]({{< relref "/docs/18.md" >}})
 - [19 - 残った 568 兆円の謎]({{< relref "/docs/19.md" >}})
+- [20 - 解散は許さない]({{< relref "/docs/20.md" >}})
